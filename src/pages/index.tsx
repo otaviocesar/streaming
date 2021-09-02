@@ -5,8 +5,6 @@ type Props = {
   title: string
 }
 
-const bla = 'teste'
-
 export default function Home({ title = 'Streaming!' }: Props) {
   return (
     <div className="container">
