@@ -1,5 +1,5 @@
 
-![Streaming BoilerPlate](https://raw.githubusercontent.com/otaviocesar/streaming/main/public/img/logo.svg?token=AJCZWFJV7JNXSS3YHDM2QS3BGJ6E2)
+![Streaming BoilerPlate](https://raw.githubusercontent.com/otaviocesar/streaming/main/public/img/boilerplate.svg)
 
 ## What is inside?
 
