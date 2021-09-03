@@ -1,6 +1,8 @@
 
 ![Streaming BoilerPlate](https://raw.githubusercontent.com/otaviocesar/streaming/main/public/img/boilerplate.svg)
 
+This is a [Next.js](https://nextjs.org/) streaming project boilerplate. 
+![ci](https://github.com/otaviocesar/streaming/workflows/ci/badge.svg)
 ## What is inside?
 
 This project uses lot of stuff as:
